@@ -1,11 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Uncial Antiqua);
 
+
 html, body{
   height: 100%;
-  font-weight: 800;
-  background-color: red;
-  background-image: url("../images/enternace.jpg")
+  font-weight: 800; 
+  background: url("../images/entrance.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+
 
 body{
   font-family: 'Uncial Antiqua';
@@ -19,9 +24,9 @@ body{
 }
 
 [type=submit] {
-  background-color: #851c18;
+  background-color: white;
   border: none;
-  color: white;
+  color: black;
   padding: 15px 15px;
   margin: 15px 2px;
   transition-duration: 0.4s;
@@ -29,7 +34,7 @@ body{
 
 
 button {
-  background-color: #851c18;
+  background-color: black;
   border: none;
   color: white;
   padding: 30px 30px;

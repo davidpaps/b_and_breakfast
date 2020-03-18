@@ -54,3 +54,7 @@ I would like not show booked nights as available
 As a user,
 So I don't miss out on a booking,
 I would like to only update the nights not available when I approve a booking
+
+bundle install
+rackup
+localhost:9292
