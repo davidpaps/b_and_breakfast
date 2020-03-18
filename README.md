@@ -30,7 +30,7 @@ Then run the following command:
 rackup
 ```
 
-Then click on [*localhost:9292*](localhost:9292) to open this up in your browser and start using!
+Then click on [*localhost:9292*](http://localhost:9292/) to open this up in your browser and start using!
 
 __Add Database:__
 
