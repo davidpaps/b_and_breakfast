@@ -1,5 +1,5 @@
 # B and Breakfast
-This was the first of my group projects at Makers. The time frame was 5 days to complete, and the brief was to build a clone of AirBnb. To see a list of User Stories, please check out the userstories.md file in this directory!
+This was the first of my group projects at Makers. The time frame was 5 days to complete, and the brief was to build a clone of AirBnb. To see a list of User Stories, please check out the [__user stories__](userstories.md)!
 
 This is a single page web app built in Javascript, Ruby, Sinatra, PostgreSQL and JQuery. It was my first group project, and my first time using Javascript, and my first time building a single page app! It was a steep learning curve, but overall was a very enjoyable experience. it was a pleasure working with the Team, you can find the original repo [*here*](https://github.com/shadz22/MakersBnB). Huge shout out to them members Ben, Meghan and Shadi. I enjoyed the weeks project and learnt so much in such a short space of time. 
 
