@@ -1,7 +1,8 @@
 # B and Breakfast
-This was the first of my group projects at Makers. The time frame was 5 days to complete, and the brief was to build a clone of AirBnb. Here is a list of the [*user stories*](userstories.md)!
 
-This is a single page web app built in Javascript, Ruby, Sinatra, PostgreSQL and JQuery. It was my first group project, and my first time using Javascript, and my first time building a single page app! It was a steep learning curve, but overall was a very enjoyable experience. it was a pleasure working with the Team, you can find the original repo [*here*](https://github.com/shadz22/MakersBnB). Huge shout out to them members Ben, Meghan and Shadi. I enjoyed the weeks project and learnt so much in such a short space of time. 
+This was the first of my group projects at Makers. The time frame was 5 days to complete, and the brief was to build a clone of AirBnb. Here is a list of the [*user stories*](userstories.md) we had as a brief for the project. 
+
+This is a single page web app built in Javascript, Ruby, Sinatra, PostgreSQL and jQuery. It was my first group project, and my first time using Javascript and jQuery, and my first time building a single page app! It was a steep learning curve, but overall was a very enjoyable experience. it was a pleasure working with the Team, you can find the original repo [*here*](https://github.com/shadz22/MakersBnB). Huge shout out to them members Ben, Meghan and Shadi. I enjoyed the weeks project and learnt a huge amount in such a short space of time. 
 
 ---
 
@@ -24,7 +25,7 @@ Clone this repo, and in the command line run:
 bundle install
 ```
 
-Then run the following command:
+Once the dependancies are installed, run the following command:
 
 ```
 rackup
